@@ -1,0 +1,12 @@
+body{ 
+    background-size :cover; 
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+.content{
+    margin: 10px 50px;
+    color: rgb(10, 10, 10);
+}
+h5{
+    color: rgb(14, 10, 10);
+}
